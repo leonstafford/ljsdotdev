@@ -41,18 +41,12 @@ I need your help to fund my full-time work on open source projects. Please contr
 
 #### [Recurring donation via Patreon](https://www.patreon.com/leonstafford)
 
-
-
-  
-
-
 {{< rawhtml >}}
 <script type="text/javascript">
 
 function stripeReadyHandler () {
   var stripe = Stripe('pk_live_2ksLCet5WbcASOQed0elyh0Y');
 
-  // one-time buttons
   document.querySelectorAll('button[id^="checkout-button-sku"]').forEach(buyButton => {
     var sku = buyButton.id.replace('checkout-button-', '');
 
@@ -61,27 +55,6 @@ function stripeReadyHandler () {
         items: [
           {sku: sku, quantity: 1}
         ],
-
-        successUrl: 'https://ljs.dev/thanks-for-contributing',
-        cancelUrl: 'https://ljs.dev',
-      })
-      .then(function (result) {
-        if (result.error) {
-          var displayError = document.getElementById('error-message');
-          displayError.textContent = result.error.message;
-        }
-      });
-    });
-  });
-  // recurring buttons
-  document.querySelectorAll('button[id^="checkout-button-price"]').forEach(buyButton => {
-    var price = buyButton.id.replace('checkout-button-', '');
-
-    buyButton.addEventListener('click', function () {
-      stripe.redirectToCheckout({
-        lineItems: [{price: price, quantity: 1}],
-        mode: 'subscription',
-
         successUrl: 'https://ljs.dev/thanks-for-contributing',
         cancelUrl: 'https://ljs.dev',
       })
@@ -103,18 +76,6 @@ function stripeReadyHandler () {
     script.onload = function() {
         stripeReadyHandler();
     };
-
-  document.querySelectorAll('.crypto-button').forEach(cryptoButton => {
-    cryptoButton.addEventListener('click', function () {
-      // get relative input value
-      var walletInput = cryptoButton.parentNode.querySelector('input');
-
-      walletInput.select();
-      walletInput.setSelectionRange(0, 99999); /*For mobile devices*/
-
-      document.execCommand("copy");
-    });
-  });
 })();
 </script>
 {{< /rawhtml >}}
