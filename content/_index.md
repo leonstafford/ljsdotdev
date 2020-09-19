@@ -16,8 +16,6 @@ Welcome! I'm an open source developer and maintainer of a few projects.
 
 I need your help to fund my full-time work on open source projects. Please contribute what you can as a once-off or recurring donation to keep the creative juices flowing!
 
-#### One-time donation via credit card, Apple/Google Pay
-
 {{< rawhtml >}}
  <fieldset>
    <legend>One-time donations via credit card or Apple/Google Pay:</legend>
