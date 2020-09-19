@@ -4,9 +4,11 @@ It me!
 
 ## Tech used
 
- - [Hugo]() static site generator does the heavy lifting
- - [Accessible Minimalism hugo theme]() keeps it fast and friendly
- - [HTML Tidy]() to beautify things
+ - [Hugo](https://gohugo.io) static site generator does the heavy lifting
+ - [Accessible Minimalism hugo theme](https://github.com/leonstafford/accessible-minimalism-hugo-theme) keeps it fast and friendly
+ - [HTML Tidy](https://github.com/htacg/tidy-html5) to beautify things
+
+And, of course, some shell scripts.
 
 ## Testing
 
