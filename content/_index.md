@@ -20,6 +20,7 @@ I need your help to fund my full-time work on open source projects. Please contr
 
 {{< rawhtml >}}
  <fieldset>
+   <legend>One-time donations via credit card or Apple/Google Pay:</legend>
    <button
       id="checkout-button-sku_HQWKDw75VMLrDy"
     >$5</button>
