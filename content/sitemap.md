@@ -9,12 +9,7 @@ Along with this site's [menu](#nav-menu), you can also browse by the
  - [Tags](/tags/)
  - [Categories](/categories/)
 
-An [RSS feed](/index.xml) is available by default.
+[Subscribe to the sitewide RSS feed](/index.xml) or find each section's RSS feed
+ at `section/index.xml`.
 
-A [search engine friendly sitemap](/sitemap.xml) can be submitted to search
- engines or other tools to more easily index your site.
-
-A [robots.txt file](/robots.txt) helps inform search engines and other tools
- where to find your sitemap and to explicitly tell them you want your site's
- content to be indexed.
   
