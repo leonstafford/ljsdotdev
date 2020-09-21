@@ -1,5 +1,6 @@
 +++
 date = "2018-10-29"
+author = "Leon Stafford"
 title = "WordCamp Brisbane 2018 - WordPress as a Static Site Generator"
 slug = "wordcamp_brisbane_2018_wordpress_as_a_static_site_generator"
 tags = ["wordpress"]

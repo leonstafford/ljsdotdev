@@ -15,6 +15,10 @@ enableRobotsTXT = true
     url = "/blog/"
     weight = 2
   [[menu.main]]
+    name = "Dev notes"
+    url = "/dev-notes/"
+    weight = 4
+  [[menu.main]]
     name = "Sitemap"
     url = "/sitemap/"
-    weight = 3
+    weight = 5

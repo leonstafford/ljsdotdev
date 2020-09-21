@@ -1,6 +1,7 @@
 +++
 date = "2018-11-12"
 title = "Low footprint tech hub"
+author = "Leon Stafford"
 slug = "low_footprint_tech_hub"
 tags = ["empowerment", "low footprint"]
 categories = ["tech"]
