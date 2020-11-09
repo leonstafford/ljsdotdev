@@ -14,7 +14,13 @@ Welcome! I'm an open source developer and maintainer of a few projects.
 
 ### I survive on donations, please help!
 
-I need your help to fund my full-time work on open source projects. Please contribute what you can as a once-off or recurring donation to keep the creative juices flowing!
+I need your help to fund my work on open source projects. Please contribute what you can as a once-off or recurring donation to keep the creative juices flowing!
+
+#### [One-time donation via PayPal](https://paypal.me/ljsdotdev)
+
+#### [One-time or recurring donation via DonorBox](https://donorbox.org/leonstafford)
+
+#### [Recurring donation via Patreon](https://www.patreon.com/leonstafford)
 
 {{< rawhtml >}}
  <fieldset>
@@ -37,9 +43,6 @@ I need your help to fund my full-time work on open source projects. Please contr
   </fieldset>
 {{< /rawhtml >}}
 
-#### [One-time or recurring donation via DonorBox](https://donorbox.org/leonstafford)
-
-#### [Recurring donation via Patreon](https://www.patreon.com/leonstafford)
 
 {{< rawhtml >}}
 <script type="text/javascript">
