@@ -1,8 +1,8 @@
 ---
 author: Leon Stafford
-title: Tent living makes sense in Australia
+title: Tent dwelling software developer
 date: "2020-11-24"
-summary: Why living in a tent makes sense to me in Australia. 
+summary: Camping through the last gauntlet of 2020.
 categories:
 - camping
 - minimalism
