@@ -12,6 +12,13 @@ Welcome! I'm an open source developer and maintainer of a few projects.
  - [Appish](https://appi.sh) Easy CLI scripts as an alternative to SaaS.
  - [Accessible Minimalism](https://github.com/leonstafford/accessible-minimalism-hugo-theme) Minimalist Hugo theme with a penchant for accessibility.
 
+{{< rawhtml >}}
+<a href="https://github.com/leonstafford" rel="me">
+Follow me on GitHub
+</a> to see what other projects I'm contributing to.
+{{< /rawhtml >}}
+
+
 ### I survive on donations, please help!
 
 I need your help to fund my work on open source projects. Please contribute what you can as a once-off or recurring donation to keep the creative juices flowing!
@@ -82,3 +89,4 @@ function stripeReadyHandler () {
 })();
 </script>
 {{< /rawhtml >}}
+
