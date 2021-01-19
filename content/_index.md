@@ -13,80 +13,15 @@ Welcome! I'm an open source developer and maintainer of a few projects.
  - [Accessible Minimalism](https://github.com/leonstafford/accessible-minimalism-hugo-theme) Minimalist Hugo theme with a penchant for accessibility.
 
 {{< rawhtml >}}
-<a href="https://github.com/leonstafford" rel="me">
+<p><a href="https://github.com/leonstafford" rel="me">
 Follow me on GitHub
-</a> to see what other projects I'm contributing to.
+</a> to see what other projects I'm contributing to.</p>
 {{< /rawhtml >}}
 
 
-### I survive on donations, please help!
+### Support my continued work!
 
-I need your help to fund my work on open source projects. Please contribute what you can as a once-off or recurring donation to keep the creative juices flowing!
+Please join my creative journey, crafting software to solve real problems and doing it in a way that I hope to inspire others to follow.
 
-#### [One-time donation via PayPal](https://paypal.me/ljsdotdev)
-
-#### [One-time or recurring donation via DonorBox](https://donorbox.org/leonstafford)
-
-#### [Recurring donation via Patreon](https://www.patreon.com/leonstafford)
-
-{{< rawhtml >}}
- <fieldset>
-   <legend>One-time donations via credit card or Apple/Google Pay:</legend>
-   <button
-      id="checkout-button-sku_HQWKDw75VMLrDy"
-    >$5</button>
-
-    <button
-      id="checkout-button-sku_HQWMjmyvGDjLhO"
-    >$10</button>
-
-    <button
-      id="checkout-button-sku_HQWMWVZY5d3K4p"
-    >$50</button>
-
-    <button
-      id="checkout-button-sku_HQWN47hJ80VwWG"
-    >$100</button>
-  </fieldset>
-{{< /rawhtml >}}
-
-
-{{< rawhtml >}}
-<script type="text/javascript">
-
-function stripeReadyHandler () {
-  var stripe = Stripe('pk_live_2ksLCet5WbcASOQed0elyh0Y');
-
-  document.querySelectorAll('button[id^="checkout-button-sku"]').forEach(buyButton => {
-    var sku = buyButton.id.replace('checkout-button-', '');
-
-    buyButton.addEventListener('click', function () {
-      stripe.redirectToCheckout({
-        items: [
-          {sku: sku, quantity: 1}
-        ],
-        successUrl: 'https://ljs.dev/thanks-for-contributing',
-        cancelUrl: 'https://ljs.dev',
-      })
-      .then(function (result) {
-        if (result.error) {
-          var displayError = document.getElementById('error-message');
-          displayError.textContent = result.error.message;
-        }
-      });
-    });
-  });
-}
-
-(function() {
-    var script = document.createElement('script');
-    script.type = 'text/javascript';
-    script.src = 'https://js.stripe.com/v3';
-    document.body.appendChild(script);
-    script.onload = function() {
-        stripeReadyHandler();
-    };
-})();
-</script>
-{{< /rawhtml >}}
+I want you to be part of the journey with me, so please sponsor any amount you can and get updates via [my Patreon page](https://www.patreon.com/leonstafford)
 
