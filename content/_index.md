@@ -80,10 +80,4 @@ function stripeReadyHandler () {
 </script>
 {{< /rawhtml >}}
 
-{{< rawhtml >}}
-<p><a href="https://github.com/leonstafford" rel="me">
-Follow me on GitHub
-</a> to see what other projects I'm contributing to.</p>
-{{< /rawhtml >}}
-
 
