@@ -37,6 +37,9 @@ Please join my creative journey, crafting software to solve real problems and do
  - [PayPal](https://paypal.me/ljsdotdev)
  - [DonorBox](https://donorbox.org/leonstafford)
  - [Ko-fi](https://ko-fi.com/leonstafford)
+ - BTC: `3BVcAjb3bMddYNNaK2q2QZioAjJG2Pc6Gp`
+ - BCH: `qr0fzu0t6vt4cu49wmuanmd54dgnwutleq80jjqex0`
+ - ECH: `0x26FBc559f7897FFbe270348bE4213E150ba116B9`
 
 I want you to be part of the journey with me, so please sponsor any amount you can and get updates via [my Patreon page](https://www.patreon.com/leonstafford)
 
