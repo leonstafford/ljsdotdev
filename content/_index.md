@@ -32,12 +32,11 @@ Please join my creative journey, crafting software to solve real problems and do
 
 #### Other donation options:
 
+ - [GitHub Sponsors](https://github.com/sponsors/leonstafford) (GitHub will match 1:1)
  - [Patreon](https://www.patreon.com/leonstafford)
  - [PayPal](https://paypal.me/ljsdotdev)
  - [DonorBox](https://donorbox.org/leonstafford)
  - [Ko-fi](https://ko-fi.com/leonstafford)
-
-
 
 I want you to be part of the journey with me, so please sponsor any amount you can and get updates via [my Patreon page](https://www.patreon.com/leonstafford)
 
