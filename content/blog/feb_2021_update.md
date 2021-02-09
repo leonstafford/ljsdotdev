@@ -2,7 +2,7 @@
 author: Leon Stafford
 title: Birthdays, Bitcoins, job apps & celebrity photo shoots
 date: "2021-02-09"
-summary: Birthdays, Bitcoins, job apps & celebrity photo shoots.
+summary: February, 2021 update from Leon.
 categories:
 - tech
 - personal
