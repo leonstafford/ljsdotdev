@@ -1,6 +1,10 @@
 ---
 ---
 
+{{< rawhtml >}}
+<img src="something.jpg" />
+{{< /rawhtml >}}
+
 Welcome! I'm an open source developer and maintainer of a few projects.
 
 ## Projects
