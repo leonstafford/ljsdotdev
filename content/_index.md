@@ -5,7 +5,7 @@
 <img src="something.jpg" />
 {{< /rawhtml >}}
 
-![](myemptyaltimg).png)
+![ ](myemptyaltimg).png)
 
 Welcome! I'm an open source developer and maintainer of a few projects.
 
