@@ -27,11 +27,11 @@ Please join my creative journey, crafting software to solve real problems and do
  <fieldset>
    <legend><b>One-time donations via credit card or Apple/Google Pay:</b></legend>
    <button
-      id="checkout-button-sku_HQWKDw75VMLrDy"
-    >$5</button>
+      id="checkout-button-sku_HQWMqpDViFUclv"
+    >$50</button>
     <button
-      id="checkout-button-sku_HQWMjmyvGDjLhO"
-    >$10</button>
+      id="checkout-button-sku_HQWNlH7x4y7xjA"
+    >$100</button>
   </fieldset>
 {{< /rawhtml >}}
 
