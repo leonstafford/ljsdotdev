@@ -1,9 +1,9 @@
-account_id = "7d863571a303c5eddc8d4c48b66bef8d"
+account_id = "69c736c51a7a73dccc0b83f75d3bedce"
 name = "workers-www-ljsdotdev"
 type = "webpack"
 route = "ljs.dev/*"
 workers_dev = false
-zone_id = "88df208cedb95208a6ca56e32c77176e"
+zone_id = "7d863571a303c5eddc8d4c48b66bef8d"
 
 [site]
 bucket = "public"
